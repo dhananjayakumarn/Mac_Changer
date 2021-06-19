@@ -1,5 +1,6 @@
 import subprocess
 from pyfiglet import *
+from termcolor import *
 
 Figlet = Figlet(font="slant")
 print(Figlet.renderText("MAC-CHANGER"))
