@@ -18,7 +18,7 @@ Project is created with:
 2.Then you can download the .py file and run the file.<br>
 3.If you are using linux you can use git clone and run.<br>
 $ git clone https://github.com/dhananjayakumarn/Mac_Changer.git <br>
-$ cd mac_changer <br>
+$ cd Mac_Changer  <br>
 $ ls <br>
 $ chmod +x mac_changer.py
 $ python3 mac_changer
