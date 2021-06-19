@@ -3,7 +3,7 @@ from pyfiglet import *
 from termcolor import *
 
 Figlet = Figlet(font="slant")
-print(Figlet.renderText("MAC-CHANGER"))
+print(Figlet.renderText("MAC--CHANGER"))
 cprint(f"\t\t\t\t\t\t\t####|Created By DANNY|####", 'red')
 
 cprint("\n************ \\\\MAC_ADDRESS CHANGER\\\\************\n", 'red')
