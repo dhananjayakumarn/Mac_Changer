@@ -23,8 +23,8 @@ $ ls <br>
 $ chmod +x mac_changer.py
 $ python3 mac_changer
 Now enter the interface name (ex:eth0) 
-If you don't know your interface name type $ ifconfig and you will get your interface name .
-Now enter the mac address to which you want to change.
+If you don't know your interface name type $ ifconfig and you will get your interface name .<br>
+Now enter the mac address to which you want to change.<br>
 
 
 
