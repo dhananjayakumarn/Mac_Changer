@@ -21,7 +21,7 @@ $ git clone https://github.com/dhananjayakumarn/Mac_Changer.git <br>
 $ cd Mac_Changer  <br>
 $ ls <br>
 $ chmod +x mac_changer.py
-$ python3 mac_changer
+$ sudo python3 mac_changer.py
 Now enter the interface name (ex:eth0) 
 If you don't know your interface name type $ ifconfig and you will get your interface name .<br>
 Now enter the mac address to which you want to change.<br>
